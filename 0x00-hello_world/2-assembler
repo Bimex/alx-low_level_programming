@@ -1,2 +1,2 @@
 #!/bin/bash
-gss $CFILE -S
+gss $CFILE -S -o main.s
